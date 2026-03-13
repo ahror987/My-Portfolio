@@ -3,36 +3,16 @@ import { Button } from '@/components/ui/button';
 
 const projects = [
   {
-    title: 'Personal Portfolio',
-    description: 'My first portfolio website built to showcase my learning journey and projects. Features responsive design and modern UI.',
-    technologies: ['React', 'Tailwind CSS', 'TypeScript'],
-    learned: 'Component-based architecture and responsive design principles',
-    github: 'https://github.com/ahror987',
+    title: 'Medical-asisstent',
+    technologies: ['HTML', 'CSS'],
+    github: 'https://github.com/ahror987/medical-assistent',
     live: '#',
   },
   {
-    title: 'Weather App',
-    description: 'A simple weather application that fetches real-time weather data and displays it in a clean interface.',
-    technologies: ['JavaScript', 'HTML', 'CSS', 'API'],
-    learned: 'Working with APIs and handling async data',
-    github: 'https://github.com/ahror987',
-    live: null,
-  },
-  {
-    title: 'To-Do List',
-    description: 'A task management app with add, complete, and delete functionality. Data persists in local storage.',
-    technologies: ['JavaScript', 'HTML', 'CSS'],
-    learned: 'DOM manipulation and local storage',
-    github: 'https://github.com/ahror987',
-    live: null,
-  },
-  {
-    title: 'Calculator',
-    description: 'A functional calculator with basic arithmetic operations and a clean, modern design.',
-    technologies: ['JavaScript', 'HTML', 'CSS'],
-    learned: 'Event handling and mathematical operations in JS',
-    github: 'https://github.com/ahror987',
-    live: null,
+    title: 'Stream-line',
+    technologies: ['HTML', 'CSS',],
+    github: 'https://github.com/ahror987/steam-line',
+    live: '#',
   },
 ];
 
