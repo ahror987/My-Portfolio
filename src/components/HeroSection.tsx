@@ -29,7 +29,7 @@ const HeroSection = () => {
             Hi, I'm{' '}
             <span className="gradient-text">Ahrorbek</span>
             <br />
-            <span className="text-muted-foreground">Frontend Developer</span>
+            <span className="text-muted-foreground">Atojonov</span>
           </h1>
 
           {/* Subtitle */}
