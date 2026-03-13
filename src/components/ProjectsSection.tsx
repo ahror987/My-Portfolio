@@ -55,17 +55,6 @@ const ProjectsSection = () => {
                     >
                       <Github size={20} />
                     </a>
-                    {project.live && (
-                      <a
-                        href={project.live}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-muted-foreground hover:text-primary transition-colors"
-                        aria-label="View live site"
-                      >
-                        <ExternalLink size={20} />
-                      </a>
-                    )}
                   </div>
                 </div>
 
