@@ -6,13 +6,11 @@ const projects = [
     title: 'Medical-asisstent',
     technologies: ['HTML', 'CSS'],
     github: 'https://github.com/ahror987/medical-assistent',
-    live: '#',
   },
   {
     title: 'Stream-line',
     technologies: ['HTML', 'CSS',],
     github: 'https://github.com/ahror987/steam-line',
-    live: '#',
   },
 ];
 

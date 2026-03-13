@@ -78,11 +78,6 @@ const Header = () => {
                   {link.label}
                 </a>
               ))}
-              <Button variant="hero" size="sm" asChild className="w-fit">
-                <a href="#contact" onClick={() => setIsMobileMenuOpen(false)}>
-                  Get in Touch
-                </a>
-              </Button>
             </div>
           </div>
         )}
