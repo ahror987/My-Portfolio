@@ -4,12 +4,16 @@ import { Button } from '@/components/ui/button';
 const projects = [
   {
     title: 'Medical-asisstent',
+    description: 'A medical assistant website built to practice HTML & CSS layouts.',
+    learned: 'Responsive design patterns and semantic HTML structure.',
     technologies: ['HTML', 'CSS'],
     github: 'https://github.com/ahror987/medical-assistent',
   },
   {
     title: 'Stream-line',
-    technologies: ['HTML', 'CSS',],
+    description: 'A streaming platform landing page with modern UI elements.',
+    learned: 'CSS Flexbox, Grid layouts, and clean visual hierarchy.',
+    technologies: ['HTML', 'CSS'],
     github: 'https://github.com/ahror987/steam-line',
   },
 ];
