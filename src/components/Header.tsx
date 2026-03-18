@@ -54,6 +54,13 @@ const Header = () => {
             <Button variant="hero" size="sm" asChild>
               <a href="#contact">Get in Touch</a>
             </Button>
+            <button
+              onClick={toggle}
+              className="p-2 rounded-lg bg-secondary text-foreground hover:bg-accent transition-colors"
+              aria-label="Toggle theme"
+            >
+              {theme === 'dark' ? <Sun size={18} /> : <Moon size={18} />}
+            </button>
           </div>
 
           {/* Mobile Menu Button */}
